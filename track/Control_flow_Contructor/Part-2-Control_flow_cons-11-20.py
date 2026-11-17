@@ -52,4 +52,7 @@ elif day_7:
     print("Saturday")
 else:
     print("Invalid day") 
-    
+
+
+#Program 18: Display season based on month 
+
